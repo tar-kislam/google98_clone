@@ -1,0 +1,21 @@
+body{
+    background-color: #FFFFFF;
+    display: block;
+    margin: 8px;
+}
+table{
+    border: 0;
+    width: 70%;
+}
+.center{
+ display: flex;
+ justify-content: center;
+ align-items: center;
+}
+
+#third{
+    font-size: 14px;
+}
+#forth{
+    font-size: 14px;
+}
